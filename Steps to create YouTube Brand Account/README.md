@@ -1,4 +1,4 @@
-#Steps to create YouTube Brand Account
+# Steps to create YouTube Brand Account
 1.	Visit the link https://www.youtube.com/account and click on add or manage your channels
 
 2.	Then Click on Add new channel 
@@ -7,7 +7,7 @@
 
 4.	So now Our new brand channel is created
 
-##Add managers to our channel
+## Add managers to our channel
 1.	After creating Your channel, you will see the below window, click on customize channel button 
 
 2.	Then click on Icon on the top right corner and the click on settings icon in the dialog box which appears 
